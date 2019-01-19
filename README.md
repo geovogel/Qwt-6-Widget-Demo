@@ -13,6 +13,6 @@ Once the installation was successful a demo program was written in Python to exe
 ## Conclusions
 The Raspberry Pi is actually very capable of developing technical applications in a desktop environment. The demo program was written with PyCharm (with debug) and QT5 designer open concurrently with no noticeable difference in performance compared to development on a PC. The PC approach requires the added hassle of loading to the pi  target and mainting concurrent libraries. As an engineer who has a fair amount of experience with LabVIEW development, I am able to do most of what I do on a PC running LabView with the QT/Python3 set-up on the Raspberry Pi.
 
-It would be of great benefit to pi technical maker community to have an updated integration of the QT5/Qwt6/Python3 development environment available through the Raspbian distro. Based on the challenges observed this appears to be a ways off and will require coordination of several developers, Qt, and the Raspberry Pi Foundation. 
+It would be of great benefit to pi technical makers to have an updated integration of the QT5/Qwt6/Python3 development environment available through the Raspbian distro. Based on the challenges observed this appears to be a ways off and will require coordination of several developers, Qt, and the Raspberry Pi Foundation. 
  <br><br>
 ![Demo](IMG/qwtdemo.gif)
